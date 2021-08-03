@@ -5,6 +5,7 @@ sequelize
 postgres
 express
 docker
+semaphore registry
 
 Error: Cannot find module '@pm2/pm2-version-check'
 fixed by `npm i @pm2/pm2-version-check
